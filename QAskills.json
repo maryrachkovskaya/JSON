@@ -1,6 +1,24 @@
 {
 "Skills": [
 "Git bash",
+"Git hub",
+"Клиент-серверная архитектура",
 "Postman",
-"VSCode"
+"HTTP",
+"HTTPS",
+"API",
+"JSON",
+"XML",
+"Visual studio code",
+"Charles",
+"Fidler",
+"VPN",
+"Мобилное тестирование",
+"XCode",
+"SQL",
+"Postgres",
+"Redis",
+"Jmeter",
+"Scrum"
 ]
+}
